@@ -7,7 +7,6 @@
 ## Contact
 * Email: robbogucki@gmail.com
 
-## Resources
 
 #### Unity/C# Scripting:
 - [Unity User Manual](https://docs.unity3d.com/Manual/index.html)
